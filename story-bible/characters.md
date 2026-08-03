@@ -23,7 +23,20 @@ Fill each entry in any order. The archetype list mirrors the cast as conceived: 
 ## The CEO (provisional name: Dane)
 
 - About a year younger than the protagonist. Outgoing, motivated, a go-getter — the kind of leader who makes a company feel like a unit.
-- Open question: what does he know, and when did he know it?
+- Entrepreneurial leadership style: treats each hire as an asset to be positioned where their strengths serve best. Held a personal one-on-one with the protagonist *before* he joined. Laid-back pitch: start in **sales** — learn the product, the service, and the company's inner dynamics from boots-on-ground level — then move into a role that uses his administrative/strategic skill set.
+- Open question: what does he know, and when did he know it? (The sales-first plan reads two ways: genuinely good onboarding philosophy — or a way to route the protagonist through maximum exposure to the whole player roster before he has any standing.)
+
+## The Old Friend at the GC (provisional name: Walt)
+
+- The protagonist's very good friend at the construction company — the man who did the most to balance out his rough military-to-civilian transition.
+- Belongs to the *before* world: the 40-year, multi-generational, family-oriented general contractor. The heartfelt goodbye after roughly a year there is one of the story's few unambiguous, warm anchors.
+- Open question: does the game ever reach back and touch him — or is he the one clean thing, the control group, the proof that a life outside the board exists?
+
+## The Company (provisional name: the Company / TBD)
+
+- Headquarters: **Austin, Texas.** Mostly remote — veterans working from all over the U.S., a few expats abroad. Post-COVID culture: Zoom, Google Meet, fluid and strikingly efficient coordination; heavy personality and character coming through every call.
+- Hyper-startup: about a year old when the protagonist joins; ballooned from small to **150+ employees in roughly six months**. Early joiners rocketed into leadership and management at the speed of light.
+- Narrative significance: a company of disembodied voices on calls, where hierarchy formed faster than trust could — the perfect substrate for a charade. Almost no one has met almost anyone.
 
 ## Fable — the Guide (provisional)
 

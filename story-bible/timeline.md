@@ -22,4 +22,7 @@ The order of revelations. This is the novella's actual spine.
 
 Fixed dates/events the author has already decided (breakups, deaths, moves, holidays the game exploits):
 
-- —
+- **Pre-November 2025:** Protagonist is purchasing/project manager at a top San Antonio regional general contractor; 35+ land-development sites.
+- **November 2025:** The 18 Delta's recruitment call; protagonist jumps to the veterans-services company. Begins building Vigil (platform for veterans' medical benefits access).
+- **November 2025 → the waking:** The golden stretch — the company feels like a unit again. Duration of this stretch TBD by author.
+- **The first pebble:** the overheard *"that's the guy who made Vigil"* — the first moment the world seems to know him before he's introduced. Exact date TBD.

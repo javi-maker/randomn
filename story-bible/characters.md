@@ -4,12 +4,26 @@ Fill each entry in any order. The archetype list mirrors the cast as conceived: 
 
 ## The Protagonist
 
-- **Name:**
-- **Age / life situation when the game becomes visible:**
-- **What he loves (the game will use it):**
-- **What he regrets (the game will use it):**
-- **What he fears (the game will use it):**
-- **His skill:** what he is genuinely good at that the game did not account for.
+- **Name:** TBD (first person throughout; name can stay withheld for effect)
+- **Age:** 35
+- **Background:** Career military — active duty, deployed seven-plus times, eight-plus years overseas across multiple countries. Experience adjacent to overseas intelligence networks (CIA/NSA exposure); knows firsthand how foreign services develop targets over multi-year campaigns using low-level cutouts. Masters in Artificial Intelligence & Engineering, plus an MBA.
+- **Before the game:** Purchasing manager / project manager at one of the top regional general contractors in the San Antonio area — 35+ land-development sites and neighborhoods on his rotation.
+- **November 2025:** Recruited by his friend the 18 Delta (see below) to a veterans-services company. Builds **Vigil**, a platform helping veterans access their medical benefits. Falls in love with the place — it gives him back the feeling of a tight military unit: close-bonded, hardworking, nearly all veterans or veteran spouses.
+- **What he loves (the game will use it):** the company, the brotherhood it restored, Vigil itself.
+- **What he regrets (the game will use it):** TBD — the lake, and whatever "she meant to tell you" points at.
+- **What he fears (the game will use it):** TBD.
+- **His skill:** target-development literacy. He can read a recruitment campaign from the inside — which makes him dangerous in the game, and equally capable of assembling a campaign out of noise. This double edge is the novella.
+
+## The 18 Delta (provisional name: Rees)
+
+- Special Forces medical sergeant (18D), engineer, AI background. One year older than the protagonist.
+- Recruited the protagonist with a single out-of-the-blue phone call: *"Hey man, you really need to jump over to this company."*
+- Open question the story must answer: was that call friendship, or the first move of the game? The reader should never be fully sure until the author decides.
+
+## The CEO (provisional name: Dane)
+
+- About a year younger than the protagonist. Outgoing, motivated, a go-getter — the kind of leader who makes a company feel like a unit.
+- Open question: what does he know, and when did he know it?
 
 ## Fable — the Guide (provisional)
 

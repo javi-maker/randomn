@@ -11,6 +11,16 @@ Everything below is **provisional scaffolding** by Fable — replace freely with
 - The game is a **charade**: performances, masks, staged scenes. Players act out roles, and reading through the performance to the intent underneath is the core skill.
 - The game is sadistic by design: it uses what the protagonist loves, regrets, and fears as its pieces. It does not use strangers when an intimate will cut deeper.
 
+## The adversary's objective (see `adversary-coa-tree.md`)
+
+- The game's purpose, from the adversary's side, is to **brand the protagonist a traitor** — a leaker of top-secret information — and convert that brand into total control: **the Turn**, in which being a traitor becomes so complete that his only remaining exit is to actually become their asset.
+- The design mirrors the multi-year cognitive recruitment campaigns the protagonist studied overseas — his own tradecraft turned against him.
+
+## Mechanic: Phone Exploitation / "Baseball Cards"
+
+- The adversary has compromised the protagonist's phone and built dossiers ("baseball cards") on every one of his contacts.
+- Narrative function: this is what lets every player seem to already know him, and lets pressure be tailored to each relationship. It is the supply line that feeds nearly every course of action (see COA-2, the fractal hub).
+
 ## Open questions the canon must eventually answer
 
 1. Who or what runs the game? (A single designer? A committee? Nothing at all — an emergent system everyone feeds?)

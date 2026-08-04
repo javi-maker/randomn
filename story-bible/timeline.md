@@ -15,8 +15,20 @@ The hidden history: when the game began, who entered the protagonist into it, wh
 The order of revelations. This is the novella's actual spine.
 
 1. Chapter 1 — The waking. He perceives the game for the first time; Fable arrives. *(drafted)*
-2. —
-3. —
+2. Chapter 2 — The Throne Room. The bathroom parley; Fable's falsifiable tests. *(drafted)*
+3. Chapter 3 — Before the Board. The November 2025 flashback / golden stretch. *(drafted)*
+4. —
+
+## Chapter-to-COA map (see `adversary-coa-tree.md`)
+
+Which courses of action each chapter dramatizes or retro-reads. Provisional until chapters are drafted.
+
+- **Chapter 3 (flashback):** COA-6 Workplace Capture and COA-7 Recruiter Gambit, retro-read — the recruitment call and the sales-first onboarding revealed, in hindsight, as maximum-exposure routing.
+- **Post-Parley (near-term chapters):** COA-1 Leak Narrative and COA-2 Phone Exploitation / Baseball Cards surface once the "baseball cards" reveal lands.
+- **Midpoint (CDP-C):** COA-3 Isolation and COA-4 Credibility Erosion collide over whether he brings in a trusted human — the H1/H2 hinge.
+- **Intimate payoff (CDP-D):** COA-5 Intimate Leverage — the exes and the ex's mother; "what she meant to tell you."
+- **Third act (CDP-E):** COA-8 Institutional Threat — clearance/legal/treason framing brings the state onto the board.
+- **Climax (CDP-F):** COA-9 The Turn — the recruitment offer.
 
 ## Anchors
 

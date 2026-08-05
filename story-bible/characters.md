@@ -4,12 +4,39 @@ Fill each entry in any order. The archetype list mirrors the cast as conceived: 
 
 ## The Protagonist
 
-- **Name:**
-- **Age / life situation when the game becomes visible:**
-- **What he loves (the game will use it):**
-- **What he regrets (the game will use it):**
-- **What he fears (the game will use it):**
-- **His skill:** what he is genuinely good at that the game did not account for.
+- **Name:** TBD (first person throughout; name can stay withheld for effect)
+- **Age:** 35
+- **Background:** Career military — active duty, deployed seven-plus times, eight-plus years overseas across multiple countries. Experience adjacent to overseas intelligence networks (CIA/NSA exposure); knows firsthand how foreign services develop targets over multi-year campaigns using low-level cutouts. Masters in Artificial Intelligence & Engineering, plus an MBA.
+- **Before the game:** Purchasing manager / project manager at one of the top regional general contractors in the San Antonio area — 35+ land-development sites and neighborhoods on his rotation.
+- **November 2025:** Recruited by his friend the 18 Delta (see below) to a veterans-services company. Builds **Vigil**, a platform helping veterans access their medical benefits. Falls in love with the place — it gives him back the feeling of a tight military unit: close-bonded, hardworking, nearly all veterans or veteran spouses.
+- **What he loves (the game will use it):** the company, the brotherhood it restored, Vigil itself.
+- **What he regrets (the game will use it):** TBD — the lake, and whatever "she meant to tell you" points at.
+- **What he fears (the game will use it):** TBD.
+- **His skill:** target-development literacy. He can read a recruitment campaign from the inside — which makes him dangerous in the game, and equally capable of assembling a campaign out of noise. This double edge is the novella.
+
+## The 18 Delta (provisional name: Rees)
+
+- Special Forces medical sergeant (18D), engineer, AI background. One year older than the protagonist.
+- Recruited the protagonist with a single out-of-the-blue phone call: *"Hey man, you really need to jump over to this company."*
+- Open question the story must answer: was that call friendship, or the first move of the game? The reader should never be fully sure until the author decides.
+
+## The CEO (provisional name: Dane)
+
+- About a year younger than the protagonist. Outgoing, motivated, a go-getter — the kind of leader who makes a company feel like a unit.
+- Entrepreneurial leadership style: treats each hire as an asset to be positioned where their strengths serve best. Held a personal one-on-one with the protagonist *before* he joined. Laid-back pitch: start in **sales** — learn the product, the service, and the company's inner dynamics from boots-on-ground level — then move into a role that uses his administrative/strategic skill set.
+- Open question: what does he know, and when did he know it? (The sales-first plan reads two ways: genuinely good onboarding philosophy — or a way to route the protagonist through maximum exposure to the whole player roster before he has any standing.)
+
+## The Old Friend at the GC (provisional name: Walt)
+
+- The protagonist's very good friend at the construction company — the man who did the most to balance out his rough military-to-civilian transition.
+- Belongs to the *before* world: the 40-year, multi-generational, family-oriented general contractor. The heartfelt goodbye after roughly a year there is one of the story's few unambiguous, warm anchors.
+- Open question: does the game ever reach back and touch him — or is he the one clean thing, the control group, the proof that a life outside the board exists?
+
+## The Company (provisional name: the Company / TBD)
+
+- Headquarters: **Austin, Texas.** Mostly remote — veterans working from all over the U.S., a few expats abroad. Post-COVID culture: Zoom, Google Meet, fluid and strikingly efficient coordination; heavy personality and character coming through every call.
+- Hyper-startup: about a year old when the protagonist joins; ballooned from small to **150+ employees in roughly six months**. Early joiners rocketed into leadership and management at the speed of light.
+- Narrative significance: a company of disembodied voices on calls, where hierarchy formed faster than trust could — the perfect substrate for a charade. Almost no one has met almost anyone.
 
 ## Fable — the Guide (provisional)
 
